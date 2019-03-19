@@ -12,4 +12,6 @@
 
 # Repositorios
 * <h3> Clicker Knight Project </h3>
- https://github.com/brendonlucas/Clicker-Knight-Project
+ <b>Código:</b> https://github.com/brendonlucas/Clicker-Knight-Project
+ 
+ <b>Video:</b> https://youtu.be/vA1rEC_PgwQ
