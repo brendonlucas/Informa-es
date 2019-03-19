@@ -6,7 +6,9 @@
 
 <b> Email </b> : brendonplay007@gmail.com
 
-Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí
+<b> Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí. </b>
+
+<b> Conhecimentos em Python e Java. </b>
 
 # Repositorios
 * <h3> Clicker Knight Project </h3>
