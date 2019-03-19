@@ -7,6 +7,7 @@
 <b> Email </b> : brendonplay007@gmail.com
 
 <b> Atualmente cursando Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí. </b>
+# Habilidades 
 
 <b> Conhecimentos em Python e Java. </b>
 
