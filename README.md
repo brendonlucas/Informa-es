@@ -10,6 +10,10 @@
 
 <b> Conhecimentos em Python e Java. </b>
 
+# Interesses
+
+Adquirir conhecimento na área de desenvolvimento de sistemas para talvez estar no mercado de trabalho.
+
 # Repositorios
 * <h3> Clicker Knight Project </h3>
  <b>Código:</b> https://github.com/brendonlucas/Clicker-Knight-Project
