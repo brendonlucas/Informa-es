@@ -13,7 +13,7 @@
 
 # Interesses
 
-Adquirir conhecimento na área de desenvolvimento de sistemas para talvez entrar no mercado de trabalho.
+Adquirir conhecimento na área de desenvolvimento de sistemas.
 
 # Repositorios
 * <h3> Clicker Knight Project </h3>
